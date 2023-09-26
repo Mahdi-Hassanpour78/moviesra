@@ -1,2 +1,2 @@
-# moviesra
-website dedicated to downloading movies and series
+# Moviesra
+Website dedicated to downloading movies and series.
